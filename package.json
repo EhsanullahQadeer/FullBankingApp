@@ -1,0 +1,27 @@
+{
+  "name": "full-bank-application-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "firebase": "^10.12.4",
+    "full-bank-application-2": "file:",
+    "lowdb": "^7.0.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "react": "^18.3.1",
+    "react-router-dom": "^6.25.1"
+  },
+  "devDependencies": {
+    "nodemo": "^1.0.0"
+  }
+}
